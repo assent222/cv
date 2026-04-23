@@ -86,6 +86,7 @@ Experienced Senior Java Developer with over 8 years of expertise in designing, d
 
 ### Http tool
 - Postman
+- Bruno
 
 ### IDE
 - IntelliJ IDEA
@@ -160,34 +161,27 @@ example
 
 ## Education
 
-### Bachelor of Science in Computer Science
-**University of California, Berkeley**  
-*2011 - 2015*  
-GPA: 3.7/4.0
-
-## Certifications
-
-- Oracle Certified Java Programmer (OCJP) - 2018
-- AWS Certified Developer - Associate - 2020
-- Scrum Master Certification - 2019
+### Magister of Science in Theoretical and Computer Mechanics
+**Dnipropetrovsk national university, Magister, Dnipro, UA**
+**Faculty of Mechanics and Mathematics**
+*2010 - 2015*
 
 ## Projects
 
 ### E-Commerce Microservices Platform
-- **Technologies:** Java, Spring Boot, Kubernetes, Docker, PostgreSQL
-- Led the development of a scalable e-commerce platform handling millions of transactions.
+- **Technologies:** Java, Spring Boot, Kubernetes, Docker, MS SQL Server
+- Led the development of a scalable e-commerce platform.
 - Implemented service discovery, load balancing, and circuit breaker patterns.
 
-### Real-Time Analytics Dashboard
-- **Technologies:** Java, Kafka, Elasticsearch, Kibana
+### Real-Time Processing
+- **Technologies:** Java, Azure Service Bus(ASB)
 - Built a real-time data processing pipeline for analytics, processing 10k+ events per second.
 - Integrated with multiple data sources and provided actionable insights to stakeholders.
 
 ## Additional Information
 
-- **Languages:** English (Native), Spanish (Conversational)
+- **Languages:** English (Intermediate), Russian (Native), Ukrainian (Native)
 - **Interests:** Open-source contributions, tech blogging, mentoring
-- **Volunteer Work:** Code instructor at local coding bootcamp
 
 ---
 
