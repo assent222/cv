@@ -162,8 +162,8 @@ example
 ## Education
 
 ### Magister of Science in Theoretical and Computer Mechanics
-**Dnipropetrovsk national university, Magister, Dnipro, UA**
-**Faculty of Mechanics and Mathematics**
+**Dnipropetrovsk national university, Magister, Dnipro, UA**  
+**Faculty of Mechanics and Mathematics**  
 *2010 - 2015*
 
 ## Projects
