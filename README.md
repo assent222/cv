@@ -2,7 +2,6 @@
 
 **Kirill Pisarenko**  
 🔗 [LinkedIn](https://www.linkedin.com/in/kirill-pisarenko) | 🏠 Dnipro, UA  
-💻 [GitHub](https://github.com/johndoe)
 
 ## Professional Summary
 
@@ -11,9 +10,9 @@ Experienced Senior Java Developer with over 8 years of expertise in designing, d
 ## Skills
 
 ### Programming Languages
-- Java 8, 17, 21
+- Java 8, 17, 21, 25
 - SQL, JPA
-- Bash
+- Shell/Bash
 
 ### Framework
 - Spring framework
@@ -64,9 +63,6 @@ Experienced Senior Java Developer with over 8 years of expertise in designing, d
 - Compose
 - Kubernetes
 
-### Cloud technologies
-- AWS (EC2, S3, Lambda, RDS)
-
 ### Relation Database
 - MS SQL Server
 - Postgres
@@ -100,7 +96,6 @@ Experienced Senior Java Developer with over 8 years of expertise in designing, d
 - REST API 
 - CAP theorem 
 - Microservices architecture
-- Cloud-native (12-factor apps)
 - High-load & Fault-tolerant
 - Messaging systems (Push/Pull)
 - Event-driven architecture
@@ -110,7 +105,6 @@ Experienced Senior Java Developer with over 8 years of expertise in designing, d
     - Scram
     - Kanban
 - Test-Driven Development (TDD)
-- Behavior-Driven Development (BDD)
 - Domain-Driven Design (DDD) 
 
 ### CI/CD Pipelines
@@ -127,37 +121,47 @@ Experienced Senior Java Developer with over 8 years of expertise in designing, d
 - Confluence
 
 ### English
-- Intermediate
+- B2, Intermediate
 
 ## Professional Experience
-example
-### Senior Java Developer
-**TechCorp Solutions, New York, NY**  
-*January 2020 - Present*
 
-- Led a team of 5 developers in designing and implementing a microservices-based e-commerce platform using Spring Boot and Kubernetes, resulting in 40% improvement in system scalability and 25% reduction in deployment time.
-- Architected and developed RESTful APIs serving 1M+ daily requests, achieving 99.9% uptime.
-- Implemented CI/CD pipelines using Jenkins and Docker, reducing release cycles from weekly to daily.
-- Mentored junior developers and conducted code reviews to ensure adherence to best practices and coding standards.
+### Tech Lead Java Developer
+**EPAM Systems, Dnipro Region, Ukraine**
+*March 2017 – Present*
+
+- Led a team of 5 developers in designing and implementing a microservices-based e-commerce application.
+- Architected, designed, and documented REST/HTTP APIs, including JSON data formats and API versioning strategies.
+- Estimated new features, managed development team tasks, and mentored team members through code reviews and technical guidance.
+- Developed new features, fixed defects, and performed code refactoring
+- Investigated and resolved application performance bottlenecks, and clarified requirements with architects and business analysts on the customer side.
+- Mentored junior developers as a lector and mentor in a Internal Java Bootcamp, showcasing strong leadership and knowledge-sharing skills
 - Collaborated with cross-functional teams including DevOps, QA, and Product to deliver features on time.
+- Tools and Technologies: Java 8, 11, 17, 25, Spring, Spring Boot, REST, JPA, Hibernate, Liquibase, JUnit, SQL, Maven, Tomcat, GIT, Azure ASB, Rabbit MQ, Kafka, MS SQL Server, Postgres, Kubernetes, Docker
 
 ### Java Developer
-**InnovateTech Inc., Boston, MA**  
-*March 2017 - December 2019*
+**Luxoft**
+*March 2014 – March 2017*
 
-- Developed and maintained multiple Java-based web applications using Spring MVC and Hibernate.
-- Optimized database queries and implemented caching strategies, improving application performance by 30%.
-- Integrated third-party APIs and services, enhancing application functionality.
-- Participated in Agile ceremonies and contributed to sprint planning and retrospectives.
-- Conducted thorough testing and debugging to ensure high-quality code delivery.
+- Supported, fixed defects, refactored, and developed new features for J2EE applications hosted on WebLogic across SIT/UAT/PRD environments.
+- Communicated directly with customers to clarify requirements and ensure successful delivery.
+- Maintained and enhanced application codebase, ensuring stability and performance.
+- Tools and Technologies: Java SE 8, Spring, Spring Boot, REST, JPA, Hibernate, Liquibase, JUnit, SQL, Maven, Tomcat, GIT, Oracle
 
-### Junior Java Developer
-**StartUp Dynamics, San Francisco, CA**  
-*June 2015 - February 2017*
+### Java Developer
+**PrivatBank**
+*September 2012 – March 2014*
 
-- Assisted in the development of Java applications for various client projects.
-- Gained experience with version control systems and collaborative development practices.
-- Participated in code reviews and learned industry best practices.
+- Developed new features, fixed defects, and refactored code for internal business process management systems.
+- Implemented business logic and created XML services to support business operations.
+- Tools & Technologies: Java SE 5, Spring, MyBatis, JUnit, SVN, Maven, Sybase ASE, Tomcat, JUnit
+
+### SQL Developer
+**PrivatBank**
+*June 2011 – September 2012*
+
+- Developed scripts to implement scoring models and prepared weekly/monthly reports.
+- Fixed defects and refactored reporting solutions to improve accuracy and efficiency.
+- Tools & Technologies: Sybase IQ, Bash
 
 ## Education
 
@@ -166,23 +170,6 @@ example
 **Faculty of Mechanics and Mathematics**  
 *2010 - 2015*
 
-## Projects
-
-### E-Commerce Microservices Platform
-- **Technologies:** Java, Spring Boot, Kubernetes, Docker, MS SQL Server
-- Led the development of a scalable e-commerce platform.
-- Implemented service discovery, load balancing, and circuit breaker patterns.
-
-### Real-Time Processing
-- **Technologies:** Java, Azure Service Bus(ASB)
-- Built a real-time data processing pipeline for analytics, processing 10k+ events per second.
-- Integrated with multiple data sources and provided actionable insights to stakeholders.
-
 ## Additional Information
-
-- **Languages:** English (Intermediate), Russian (Native), Ukrainian (Native)
+- **Languages:** B2, English (Intermediate), Russian (Native), Ukrainian (Native)
 - **Interests:** Open-source contributions, tech blogging, mentoring
-
----
-
-*References available upon request.*
