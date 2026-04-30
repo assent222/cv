@@ -5,7 +5,7 @@
 
 ## Professional Summary
 
-Experienced Senior Java Developer with over 8 years of expertise in designing, developing, and maintaining high-performance, scalable Java applications. Proficient in modern Java frameworks, microservices architecture, and cloud technologies. Strong background in leading development teams, mentoring junior developers, and implementing best practices for code quality and CI/CD pipelines. Passionate about delivering innovative solutions that drive business value.
+Experienced BE Tech Lead Java Engineer with over 10 years of expertise in designing, developing, and maintaining high-performance, scalable Java applications. Proficient in modern Java frameworks, microservices architecture, and cloud technologies. Strong background in leading development teams, mentoring junior developers, and implementing best practices for code quality and CI/CD pipelines. Passionate about delivering innovative solutions that drive business value.
 
 ## Skills
 
