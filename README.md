@@ -20,8 +20,8 @@ Experienced Senior Java Developer with over 8 years of expertise in designing, d
     - Spring Web
     - Spring MVC
     - Spring Security
-    - Spring JDBC
-    - Spring Data
+    - Spring Jdbc Template
+    - Spring Data Jpa
     - Spring Batch
     - Spring Boot
 - Hibernate
@@ -132,9 +132,9 @@ Experienced Senior Java Developer with over 8 years of expertise in designing, d
 - Led a team of 5 developers in designing and implementing a microservices-based e-commerce application.
 - Architected, designed, and documented REST/HTTP APIs, including JSON data formats and API versioning strategies.
 - Estimated new features, managed development team tasks, and mentored team members through code reviews and technical guidance.
-- Developed new features, fixed defects, and performed code refactoring
+- Developed new features, fixed defects, and performed code refactoring.
 - Investigated and resolved application performance bottlenecks, and clarified requirements with architects and business analysts on the customer side.
-- Mentored junior developers as a lector and mentor in a Internal Java Bootcamp, showcasing strong leadership and knowledge-sharing skills
+- Mentored junior developers as a lector and mentoring in a Internal Java Bootcamp, showcasing strong leadership and knowledge-sharing skills.
 - Collaborated with cross-functional teams including DevOps, QA, and Product to deliver features on time.
 - Tools and Technologies: Java 8, 11, 17, 25, Spring, Spring Boot, REST, JPA, Hibernate, Liquibase, JUnit, SQL, Maven, Tomcat, GIT, Azure ASB, Rabbit MQ, Kafka, MS SQL Server, Postgres, Kubernetes, Docker
 
