@@ -121,7 +121,7 @@ Experienced BE Tech Lead Java Engineer with over 10 years of expertise in design
 - Confluence
 
 ### English
-- B2, Intermediate
+- B1, Intermediate
 
 ## Professional Experience
 
@@ -171,5 +171,5 @@ Experienced BE Tech Lead Java Engineer with over 10 years of expertise in design
 *2010 - 2015*
 
 ## Additional Information
-- **Languages:** B2, English (Intermediate), Russian (Native), Ukrainian (Native)
+- **Languages:** B1, English (Intermediate), Russian (Native), Ukrainian (Native)
 - **Interests:** Open-source contributions, tech blogging, mentoring
