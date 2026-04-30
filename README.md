@@ -127,6 +127,7 @@ Experienced BE Tech Lead Java Engineer with over 10 years of expertise in design
 
 ### Tech Lead Java Developer
 **EPAM Systems, Dnipro Region, Ukraine**
+
 *March 2017 – Present*
 
 - Led a team of 5 developers in designing and implementing a microservices-based e-commerce application.
@@ -140,6 +141,7 @@ Experienced BE Tech Lead Java Engineer with over 10 years of expertise in design
 
 ### Java Developer
 **Luxoft**
+
 *March 2014 – March 2017*
 
 - Supported, fixed defects, refactored, and developed new features for J2EE applications hosted on WebLogic across SIT/UAT/PRD environments.
@@ -149,6 +151,7 @@ Experienced BE Tech Lead Java Engineer with over 10 years of expertise in design
 
 ### Java Developer
 **PrivatBank**
+
 *September 2012 – March 2014*
 
 - Developed new features, fixed defects, and refactored code for internal business process management systems.
@@ -157,6 +160,7 @@ Experienced BE Tech Lead Java Engineer with over 10 years of expertise in design
 
 ### SQL Developer
 **PrivatBank**
+
 *June 2011 – September 2012*
 
 - Developed scripts to implement scoring models and prepared weekly/monthly reports.
@@ -168,6 +172,7 @@ Experienced BE Tech Lead Java Engineer with over 10 years of expertise in design
 ### Magister of Science in Theoretical and Computer Mechanics
 **Dnipropetrovsk national university, Magister, Dnipro, UA**  
 **Faculty of Mechanics and Mathematics**  
+
 *2010 - 2015*
 
 ## Additional Information
